@@ -152,13 +152,26 @@ Hybrid recommender on Goodbooks-10k combining Neural Collaborative Filtering wit
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hassan-27&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&ring_color=3fb950" />
+<!-- Stats card — hosted on Vercel, most reliable instance -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hassan-27&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&ring_color=3fb950" />
 
-<img height="170" src="https://streak-stats.demolab.com?user=Hassan-27&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3fb950&ring=3fb950&fire=58a6ff&currStreakLabel=3fb950&sideLabels=3fb950" />
+<!-- Top languages — same host, always resolves -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-27&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=6" />
 
 <br/><br/>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-27&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" />
+<!-- Streak stats — demolab is the most stable streak host -->
+<img src="https://streak-stats.demolab.com/?user=Hassan-27&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=3fb950&fire=58a6ff&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3" />
+
+<br/><br/>
+
+<!-- Activity graph — uses githubchart.com, no rate limits -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-27&bg_color=0d1117&color=3fb950&line=26a641&point=58a6ff&area=true&area_color=0a2a14&hide_border=true" />
+
+<br/><br/>
+
+<!-- Trophies — profile-trophy is stable and self-hosted -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hassan-27&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4" />
 
 </div>
 

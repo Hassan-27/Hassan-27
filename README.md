@@ -16,10 +16,10 @@
 <a href="https://github.com/Hassan-27">
   <img src="https://img.shields.io/badge/GitHub-Hassan--27-0d1117?style=for-the-badge&logo=github&logoColor=3fb950" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/mhassank27/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0a1624?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:khanmuhammadhassan15@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-160d28?style=for-the-badge&logo=gmail&logoColor=bc8cff" />
 </a>
 
@@ -209,14 +209,11 @@ Hybrid recommender on Goodbooks-10k combining Neural Collaborative Filtering wit
 <a href="https://github.com/Hassan-27">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3fb950" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/mhassank27">
   <img src="https://img.shields.io/badge/LinkedIn-0a1624?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:khanmuhammadhassan15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-160d28?style=for-the-badge&logo=gmail&logoColor=bc8cff" />
-</a>
-<a href="https://twitter.com/YOUR_HANDLE">
-  <img src="https://img.shields.io/badge/Twitter-1c1500?style=for-the-badge&logo=twitter&logoColor=e3b341" />
 </a>
 
 <br/><br/>

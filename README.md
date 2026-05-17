@@ -49,8 +49,13 @@ class Hassan:
 
 <div align="center">
 
-<h3>Languages & Backend</h3>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+<h3>Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+
+<br/><br/>
+
+<h3>Backend</h3>
+<img src="https://skillicons.dev/icons?i=django,fastapi" />
 
 <br/><br/>
 
@@ -75,7 +80,8 @@ class Hassan:
 
 | | Skill | Status |
 |---|---|---|
-| 🟢 | Python · Django · DRF · JWT · psycopg2 | **Active** |
+| 🟢 | Python · C · C++ · JavaScript | **Active** |
+| 🟢 | Django · DRF · JWT · psycopg2 | **Active** |
 | 🔵 | PostgreSQL · MySQL · MongoDB | **Active** |
 | 🟣 | scikit-learn · NLTK · TF-IDF · VSM | **Active** |
 | 🟡 | FastAPI · Docker · TensorFlow · PyTorch | **Learning** |
@@ -152,25 +158,20 @@ Hybrid recommender on Goodbooks-10k combining Neural Collaborative Filtering wit
 
 <div align="center">
 
-<!-- Stats card — hosted on Vercel, most reliable instance -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hassan-27&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&ring_color=3fb950" />
 
-<!-- Top languages — same host, always resolves -->
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-27&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=6" />
 
 <br/><br/>
 
-<!-- Streak stats — demolab is the most stable streak host -->
 <img src="https://streak-stats.demolab.com/?user=Hassan-27&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=3fb950&fire=58a6ff&currStreakLabel=3fb950&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=e6edf3" />
 
 <br/><br/>
 
-<!-- Activity graph — uses githubchart.com, no rate limits -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan-27&bg_color=0d1117&color=3fb950&line=26a641&point=58a6ff&area=true&area_color=0a2a14&hide_border=true" />
 
 <br/><br/>
 
-<!-- Trophies — profile-trophy is stable and self-hosted -->
 <img src="https://github-profile-trophy.vercel.app/?username=Hassan-27&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4" />
 
 </div>

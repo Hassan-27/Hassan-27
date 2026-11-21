@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0d1117,50:0a2a14,80:0d1117,100:000000&height=220&section=header&text=Muhammad%20Hassan%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Practitioner&descAlignY=58&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=3FB950&center=true&vCenter=true&width=900&lines=Building+systems+that+think%2C+learn+%26+scale;Django+%7C+DRF+%7C+FastAPI+%7C+PostgreSQL;NLP+%7C+TF-IDF+%7C+scikit-learn+%7C+NLTK;Learning%3A+FastAPI+%7C+Docker+%7C+TensorFlow+%7C+PyTorch" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=3FB950&center=true&vCenter=true&width=900&lines=Building+systems+that+think%2C+learn+%26+scale;Django+%7C+DRF+%7C+Spring+Boot+%7C+PostgreSQL;NLP+%7C+TF-IDF+%7C+scikit-learn+%7C+NLTK;Exploring%3A+LLM+Agent+Security+%7C+Docker+%7C+PyTorch" />
 
 <br/>
 
@@ -23,6 +23,17 @@
   <img src="https://img.shields.io/badge/Email-Contact-160d28?style=for-the-badge&logo=gmail&logoColor=bc8cff" />
 </a>
 
+<br/><br/>
+
+<sub>
+<a href="#about-me">about</a> ·
+<a href="#tech-stack">stack</a> ·
+<a href="#featured-projects">projects</a> ·
+<a href="#github-stats">stats</a> ·
+<a href="#currently-levelling-up">learning</a> ·
+<a href="#connect">connect</a>
+</sub>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a2a14,100:000000&height=3" />
@@ -36,11 +47,12 @@ class Hassan:
     name       = "Muhammad Hassan Khan"
     location   = "Karachi, Pakistan 🇵🇰"
     role       = ["Backend Engineer", "Data Scientist", "ML Practitioner"]
-    stack      = ["Django", "DRF", "FastAPI*", "PostgreSQL", "MySQL", "MongoDB"]
+    stack      = ["Django", "DRF", "Spring Boot", "FastAPI*", "PostgreSQL", "MySQL", "MongoDB"]
     ml         = ["scikit-learn", "NLTK", "TF-IDF", "TensorFlow*", "PyTorch*"]
-    tools      = ["Git", "Git Bash", "Docker*", "Postman", "VSCode"]
-    learning   = ["FastAPI", "Docker", "TensorFlow", "PyTorch"]  # * = in progress
+    exploring  = ["LLM Agent Security", "Agentic Systems", "Docker", "FastAPI"]
+    tools      = ["Git", "Git Bash", "Docker*", "Postman", "VSCode", "Linear"]
     ask_me     = "Django · DRF · JWT Auth · NLP · Information Retrieval"
+    # * = in progress
 ```
 
 ---
@@ -50,12 +62,12 @@ class Hassan:
 <div align="center">
 
 <h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 
 <br/><br/>
 
 <h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=django,fastapi" />
+<img src="https://skillicons.dev/icons?i=django,spring,fastapi" />
 
 <br/><br/>
 
@@ -80,17 +92,40 @@ class Hassan:
 
 | | Skill | Status |
 |---|---|---|
-| 🟢 | Python · C · C++ · JavaScript | **Active** |
-| 🟢 | Django · DRF · JWT · psycopg2 | **Active** |
+| 🟢 | Python · Java · C · C++ · JavaScript | **Active** |
+| 🟢 | Django · DRF · Spring Boot · JWT · psycopg2 | **Active** |
 | 🔵 | PostgreSQL · MySQL · MongoDB | **Active** |
 | 🟣 | scikit-learn · NLTK · TF-IDF · VSM | **Active** |
-| 🟡 | FastAPI · Docker · TensorFlow · PyTorch | **Learning** |
+| 🟡 | FastAPI · Docker · LLM Agent Security · TensorFlow · PyTorch | **Learning** |
 
 </div>
 
 ---
 
 ## `// featured projects`
+
+<div align="center">
+
+### 🚀 [PostPilot AI](https://github.com/Hassan-27/PostPilot-AI)
+
+<img src="https://img.shields.io/badge/Flagship-0a1f14?style=for-the-badge&logoColor=3fb950" />
+
+<br/><br/>
+
+An automated content-publishing backend — AI-generated posts, scheduled background workers, and webhook delivery — built as a deep-dive into production backend architecture: async ORM, auth, task queues, and containerization end to end.
+
+<img src="https://img.shields.io/badge/FastAPI-0a1f14?style=flat&logo=fastapi&logoColor=3fb950" />
+<img src="https://img.shields.io/badge/PostgreSQL-0a1624?style=flat&logo=postgresql&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/SQLAlchemy-0a1624?style=flat&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Celery_%2B_Redis-160d28?style=flat&logo=redis&logoColor=bc8cff" />
+<img src="https://img.shields.io/badge/LangChain-160d28?style=flat&logoColor=bc8cff" />
+<img src="https://img.shields.io/badge/Docker-1c1500?style=flat&logo=docker&logoColor=e3b341" />
+
+</div>
+
+<br/>
+
+<h4 align="center">other projects</h4>
 
 <div align="center">
 <table>
@@ -183,17 +218,21 @@ Hybrid recommender on Goodbooks-10k combining Neural Collaborative Filtering wit
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h3>⚡ FastAPI</h3>
 <p>Async APIs, dependency injection, background tasks</p>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h3>🐳 Docker</h3>
 <p>Containerisation, Compose, deployment pipelines</p>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h3>🧠 Deep Learning</h3>
 <p>TensorFlow & PyTorch for neural networks & models</p>
+</td>
+<td align="center" width="25%">
+<h3>🛡️ Agent Security</h3>
+<p>Governance & runtime safety for LLM-driven agents</p>
 </td>
 </tr>
 </table>
@@ -205,7 +244,11 @@ Hybrid recommender on Goodbooks-10k combining Neural Collaborative Filtering wit
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a2a14,100:000000&height=3" />
 
-<h2>// connect</h2>
+</div>
+
+## `// connect`
+
+<div align="center">
 
 <a href="https://github.com/Hassan-27">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3fb950" />
